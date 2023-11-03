@@ -1,4 +1,4 @@
-name: autos
+name: modelotaxi
 on:
   push:
     branches: [ master ]
